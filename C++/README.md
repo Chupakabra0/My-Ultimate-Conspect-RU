@@ -6,6 +6,9 @@ dateCreated: 1-го августа 2022
 dateModified: 11-го августа 2022
 ---
 
+![thumb](https://user-images.githubusercontent.com/47476146/184167745-45c22bfe-c058-42ac-a10f-b79f9c566b4a.png)
+
+
 ## Теория 
 
 - [Таблица размеров типов](Теория/%D0%A2%D0%B0%D0%B1%D0%BB%D0%B8%D1%86%D0%B0%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%D0%BE%D0%B2%20%D1%82%D0%B8%D0%BF%D0%BE%D0%B2.md)
