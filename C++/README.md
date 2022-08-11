@@ -5,7 +5,6 @@ tags:
 dateCreated: 1-го августа 2022
 dateModified: 11-го августа 2022
 ---
-# README
 
 ## Теория 
 
