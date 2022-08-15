@@ -3,7 +3,7 @@ metatable: false
 title: README
 tags:
 dateCreated: 1-го августа 2022
-dateModified: 11-го августа 2022
+dateModified: 15-го августа 2022
 ---
 
 ![thumb](https://user-images.githubusercontent.com/47476146/184167745-45c22bfe-c058-42ac-a10f-b79f9c566b4a.png)
@@ -29,7 +29,7 @@ dateModified: 11-го августа 2022
 - [Рандом в С++](Код/%D0%A0%D0%B0%D0%BD%D0%B4%D0%BE%D0%BC%20%D0%B2%20%D0%A1++.md)
 - [Swap в C++](Код/Swap%20%D0%B2%20C++.md)
 - [Замерить время выполнения в C++](Код/%D0%97%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D1%82%D1%8C%20%D0%B2%D1%80%D0%B5%D0%BC%D1%8F%20%D0%B2%D1%8B%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%20%D0%B2%20C++.md)
-- Факториал числа в C++
+- [Факториал числа в C++](Код/%D0%A4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB%20%D1%87%D0%B8%D1%81%D0%BB%D0%B0%20%D0%B2%20C++.md)
 - Числа Фибоначчи в C++
 - Работа с файлами в C++
 - Вывести все элементы кортежа в консоль
