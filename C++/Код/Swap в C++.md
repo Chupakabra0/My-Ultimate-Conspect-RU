@@ -46,7 +46,7 @@ void swap(T1& a, T2& b) {
   
 ```cpp
 template<class T1, class T2>
-std::pair<T1, T2> swap(const T1& a, const T2& b) {
+std::pair<T1, T2> swap(T1 a, T2 b) {
     return std::make_pair(b, a);
 }
 ```

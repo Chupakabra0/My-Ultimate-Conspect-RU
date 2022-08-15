@@ -41,6 +41,6 @@ int main(int argc, char** argv) {
 
     const auto time = (end - begin) / CLOCKS_PER_SEC;
 
-	return EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }
 ```
