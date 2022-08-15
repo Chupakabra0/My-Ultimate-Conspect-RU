@@ -57,6 +57,6 @@ struct Fact<1> {
 
 template<class T>  
 T Factorial(T n) {  
-	return std::tgamma(n + 1);
+    return std::tgamma(n + 1);
 }
 ```
