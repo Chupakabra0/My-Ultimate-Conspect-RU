@@ -6,7 +6,7 @@ dateCreated: 15-го августа 2022
 dateModified: 16-го августа 2022
 ---
 
-![thumb](https://i.gifer.com/4yd.gif)
+![thumb](https://www.meme-arsenal.com/memes/ac6bbac0b363c52df6c909560fb66235.jpg)
 
 ## Линейная алгебра
 
