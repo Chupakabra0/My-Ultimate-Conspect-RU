@@ -3,7 +3,7 @@ metatable: false
 title: README
 tags:
 dateCreated: 1-го августа 2022
-dateModified: 23-го августа 2022
+dateModified: 24-го августа 2022
 ---
 
 ![thumb](https://user-images.githubusercontent.com/47476146/184167745-45c22bfe-c058-42ac-a10f-b79f9c566b4a.png)
@@ -21,13 +21,13 @@ dateModified: 23-го августа 2022
 - [lvalue vs. rvalue](Теория/lvalue%20vs.%20rvalue.md)
 - move-семантика
 - Исключения
-- RAII
+- [RAII](Теория/RAII.md)
 - [SFINAE](Теория/SFINAE.md)
-- ODR
+- [ODR](Теория/ODR.md)
 - [RVO](Теория/RVO.md)
-- RTTI
-- PIMPL
-- KISS
+- [RTTI](Теория/RTTI.md)
+- [PIMPL](Теория/PIMPL.md)
+- [KISS](Теория/KISS.md)
 - Исключение, выброшенное в конструкторе/деструкторе
 - Префиксный инкремент vs. постфиксный инкремент
 - Чисто виртуальный деструктор
